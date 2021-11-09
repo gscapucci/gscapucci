@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Guilherme Silva Capucci
-- 👀 I’m interested in C, C++, Java and Rust
-- 🌱 I’m currently learning Java and Rust
+- 👀 I’m interested in C, C++
+- 🌱 I’m currently learning C
 - 📫 How to reach me, my email: guilherme_capucci@outlook.com
 
 <!---
