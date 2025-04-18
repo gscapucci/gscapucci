@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Guilherme Silva Capucci
-- 👀 I’m interested in C, C++, Go, Python, Rust
-- 🌱 I’m currently learning Go, Python and Rust
+- 👀 I’m interested in C, C++, Python, Rust and Zig
+- 🌱 I’m currently learning Python, Rust and zig
 - 📫 How to reach me, my email: guilherme_capucci@outlook.com
 
 <!---
